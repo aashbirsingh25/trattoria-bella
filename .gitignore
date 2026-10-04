@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Raw source videos (only the processed public/pizza_scrub.mp4 is used by the site)
+video/
+public/pizza.mp4
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Env
+.env
+.env.local
+*.local
