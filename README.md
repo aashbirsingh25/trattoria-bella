@@ -1,10 +1,12 @@
 # Trattoria Bella — Italian Restaurant Website
 
+**🔗 Live demo: [trattoria-bella-pi.vercel.app](https://trattoria-bella-pi.vercel.app/)**
+
 A warm, cinematic website for a fictional Italian restaurant, featuring a
 scroll-scrubbed video showpiece and a filterable menu. Built with React, Vite,
 Framer Motion, Lenis, and GSAP.
 
-![Status](https://img.shields.io/badge/status-demo-c0602f)
+![Status](https://img.shields.io/badge/status-live-c0602f)
 
 ## Features
 
